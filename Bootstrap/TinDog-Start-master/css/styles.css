@@ -1,0 +1,177 @@
+.title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+p {
+  color: gray;
+  line-height: 2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.brandlogo {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.main-heading {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+i {
+  margin: auto;
+}
+
+button {
+  margin: 5% 3% 5% 0;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2rem;
+}
+
+.navbar {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 3rem;
+}
+
+.nav-item {
+  padding: 0 1rem;
+}
+
+nav-link {
+  font-size: 1rem;
+  font-weight: 100;
+}
+
+i {
+  padding-right: 5px;
+}
+
+.fa-apple {
+  margin-bottom: 2px;
+}
+
+.timage {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+.features-col {
+  text-align: center;
+  padding: 5%;
+}
+
+.features-icons {
+  color: #ef8172;
+  size: 200px;
+  padding: 0;
+  margin: 1rem;
+}
+
+.features-icons:hover {
+  color: #ff4c68;
+}
+
+.features-h {
+  font-size: 1.5rem;
+}
+
+.features-p {
+  color: #8f8f8f;
+}
+
+.features {
+  padding: 7% 15%;
+  background-color: white;
+  z-index: 1;
+  position: relative;
+}
+
+.testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+.testimonialimg {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+
+.press {
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+
+.pressimg {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.pricing {
+  text-align: center;
+  padding: 10%;
+}
+
+.pcol {
+  padding: 3% 2%;
+}
+
+@media (max-width:992px) {
+  .timage {
+    position: static;
+    transform: rotate(0);
+  }
+
+  .title {
+    text-align: center;
+  }
+}
+
+.cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.ctah3 {
+  font-size: 3rem;
+  font-weight: 900;
+  color: white;
+}
+
+.footer {
+  padding: 7% 15%;
+  font-size: 0.75rem;
+  text-align: center;
+  font-weight: 600;
+}
+
+.fi {
+  margin: 20px 10px;
+}

@@ -1,0 +1,22 @@
+html {
+  font-family: Segoe UI;
+  text-align: center;
+}
+body {
+  background-color: #e4f9f5;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bolder;
+  background-position: center;
+}
+h1,h2,h3,p,a {
+  color: #40514e;
+}
+footer {
+  background-color: #30e3ca;
+  background-position: bottom;
+}
+img {
+  background-color: #11999e;
+}

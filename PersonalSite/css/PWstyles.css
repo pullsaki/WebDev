@@ -1,0 +1,27 @@
+body {
+  background-color: #f9ed69;
+  font-family: Segoe UI;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 10px;
+  border-color: #6a2c70;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  border-radius: 10px;
+  border-color: #6a2c70;
+  border-style: groove;
+  border-width: 2px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #b83b5e;
+}
+
+a {
+  color: #b83b5e;
+}
